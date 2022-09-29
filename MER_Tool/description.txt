@@ -1,0 +1,1 @@
+This folder contains the original Anomaly Detection tool created under the Data.FI project for USAID. It is customized for MER datasets.
